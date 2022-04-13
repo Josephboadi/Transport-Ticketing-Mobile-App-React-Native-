@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "558714829447",
+    "project_id": "sesaimageuploadapp",
+    "storage_bucket": "sesaimageuploadapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558714829447:android:82995693525a72994e1622",
+        "android_client_info": {
+          "package_name": "com.travelgh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558714829447-sr7juqustgo23sfv4cnqmvn3qgmarb0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFaF26e5jTFZeFoday8d4Zx5_cRmL8A5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558714829447-sr7juqustgo23sfv4cnqmvn3qgmarb0c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "558714829447-ttlcbqeoimqlkvgf5jjcb2jht7852qao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sesaimageuploadapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558714829447:android:d0f284065a1f33d54e1622",
+        "android_client_info": {
+          "package_name": "com.sesaimageuploadapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558714829447-sr7juqustgo23sfv4cnqmvn3qgmarb0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFaF26e5jTFZeFoday8d4Zx5_cRmL8A5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558714829447-sr7juqustgo23sfv4cnqmvn3qgmarb0c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "558714829447-ttlcbqeoimqlkvgf5jjcb2jht7852qao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sesaimageuploadapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

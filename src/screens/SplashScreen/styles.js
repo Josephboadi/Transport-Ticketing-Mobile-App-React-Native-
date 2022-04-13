@@ -1,0 +1,98 @@
+import {StyleSheet, Dimensions} from 'react-native';
+
+const styles = StyleSheet.create({
+  image: {
+    width: '100%',
+    height: 410,
+    resizeMode: 'contain',
+    alignItems: 'center',
+    // marginHorizontal: 10,
+    // justifyContent: 'center',
+  },
+  title3: {
+    // marginTop: 10,
+    // width: Dimensions.get('screen').width - 40,
+    // borderRadius: 30,
+    // marginHorizontal: 10,
+    // flexDirection: 'row',
+    // justifyContent: 'center',
+    // alignItems: 'center',
+    // position: 'absolute',
+    // top: -10,
+
+    fontSize: 45,
+    fontWeight: 'bold',
+    color: '#87c830',
+    // width: '70%',
+    alignSelf: 'center',
+    // justifyContent: 'center',
+    // marginLeft: 15,
+
+    // marginBottom: -10,
+  },
+  logo: {
+    height: 50,
+    width: 50,
+    alignSelf: 'center',
+    marginBottom: 10,
+  },
+  title: {
+    marginTop: 0,
+    fontSize: 18,
+    // fontWeight: 'bold',
+    alignSelf: 'center',
+    color: '#87c830',
+    // width: '70%',
+    // marginLeft: 15,
+  },
+  title2: {
+    fontSize: 18,
+    // fontWeight: 'bold',
+    alignSelf: 'center',
+    color: '#87c830',
+    // width: '70%',
+    // marginLeft: 15,
+  },
+  button: {
+    backgroundColor: '#87c830',
+    width: 280,
+    height: 50,
+    // borderRadius: 25,
+    borderTopRightRadius: 40,
+    borderBottomLeftRadius: 40,
+    marginTop: 10,
+    // marginLeft: 15,
+    justifyContent: 'center',
+    alignItems: 'center',
+    bottom: 30,
+    // padding: 10,
+  },
+  buttonText: {
+    fontSize: 20,
+    fontWeight: 'bold',
+    color: '#fff',
+  },
+
+  searchButton: {
+    backgroundColor: '#fff',
+    borderColor: '#E6E6E6',
+    borderWidth: 2,
+    height: 60,
+    width: Dimensions.get('screen').width - 40,
+    borderRadius: 30,
+    marginHorizontal: 10,
+    flexDirection: 'row',
+    justifyContent: 'center',
+    alignItems: 'center',
+    position: 'absolute',
+    top: 20,
+    zIndex: 100,
+  },
+  searchButtonText: {
+    fontSize: 16,
+    fontWeight: 'bold',
+    marginLeft: 20,
+  },
+});
+
+export default styles;
